@@ -26,7 +26,7 @@ let questions = [
     numb: 3,
     question: "Which one of them is a Tech society of NSUT?",
     answer: "D) IEEE",
-    options: ["A) Crosslinks", "B) GDSC", "C) IGTS", "D) IEEE"],
+    options: ["A) Crosslinks", "B) GDSC", "C) Venatus", "D) IEEE"],
   },
   {
     numb: 4,
@@ -89,7 +89,7 @@ let questions = [
   {
     numb: 10,
     question: "Which one of them is a Gming society of NSUT?",
-    answer: "C) IGTS",
-    options: ["A) Crosslinks", "B) GDSC", "C) IGTS", "D) IEEE"],
+    answer: "C) Venatus",
+    options: ["A) Crosslinks", "B) GDSC", "C) Venatus", "D) IEEE"],
   },
 ];
