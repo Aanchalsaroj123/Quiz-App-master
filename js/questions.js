@@ -88,7 +88,7 @@ let questions = [
   },
   {
     numb: 10,
-    question: "Which one of them is a Gming society of NSUT?",
+    question: "Which one of them is a Gaming society of NSUT?",
     answer: "C) Venatus",
     options: ["A) Crosslinks", "B) GDSC", "C) Venatus", "D) IEEE"],
   },
