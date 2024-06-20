@@ -5,12 +5,18 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  text-decoration: none;
 }
 
-body {
+/* body {
   background-image: url("./images/bg.png");
   background-repeat: no-repeat;
   background-size: 50%;
+} */
+.img{
+  background-repeat: no-repeat;
+  width:  50%;
+  height: auto;
 }
 
 ::selection {
@@ -24,6 +30,7 @@ body {
   left: 70%;
   transform: translate(-50%, -50%);
   text-align: center;
+  
 }
 
 .start-page-title {
@@ -38,12 +45,13 @@ body {
   font-weight: 500;
   background-color: #3d8de0;
   color: #ffffff;
-  padding: 15px 30px;
+  padding: 15px 20px;
   outline: none;
   border: none;
   border-radius: 10px;
   cursor: pointer;
   margin-top: 40px;
+  width: 11rem;
 }
 
 .start_btn button:hover {
